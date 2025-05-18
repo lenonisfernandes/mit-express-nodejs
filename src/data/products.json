@@ -25,5 +25,15 @@
     "stock": 10,
     "category": "Áudio",
     "brand": "JBL"
+  },
+  {
+    "name": "Smartphone Galaxy S24 (new)",
+    "description": "Smartphone Android com 256GB de armazenamento",
+    "price": 3999.99,
+    "stock": 1515151,
+    "category": "Eletrônicos",
+    "brand": "Samsung",
+    "id": 1747610151770,
+    "image": "46a9481fcf16f6013036bcda7b4e9742.webp"
   }
 ]
